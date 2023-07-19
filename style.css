@@ -158,8 +158,31 @@ margin-top: auto;
   justify-content: space-evenly;
   padding-left: 10%;
   padding-right: 10%;
+  margin-top: 30px;
 }
+.section3-heading2{
+color: #0B0223;
+font-size: 48px;
+font-weight: 700;
+background: linear-gradient(180deg, #F948B2 0%, #8758F1 100%);
+background-clip: text;
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+}
+.section3-description{
+color: #534C64;
+font-size: 18px;
+font-weight: 400;
+}
+/* fourth section start herer......................................................................................*/
+.section4{
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+}
+.section4-img{
 
+}
 
 
 
