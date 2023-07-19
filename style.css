@@ -209,9 +209,15 @@ padding-left: 200px;
 /*fifth section start here................................................................................................*/
 .section5-images1{
   display: flex;
+  justify-content: space-evenly;
 }
 .section5-images{
   display: flex;
+}
+.section5-images2{
+  display: flex;
+  justify-content: space-evenly;
+  margin-top: 40px;
 }
 
 
