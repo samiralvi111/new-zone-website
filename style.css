@@ -181,7 +181,7 @@ font-weight: 400;
   align-items: center;
 }
 .section4-img{
-
+padding-left: 40px;
 }
 .section4-tittle{
   text-align: center;
@@ -196,6 +196,15 @@ text-align: right;
 color: #534C64;
 font-size: 18px;
 font-weight: 400;
+}
+.section4-img2{
+  position: relative;
+  bottom: 300px;
+  right: 150px;
+}
+.section4-heading{
+padding-bottom: 250px;
+padding-left: 200px;
 }
 
 
