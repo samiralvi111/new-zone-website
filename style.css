@@ -231,6 +231,20 @@ padding-left: 200px;
 .fotter-logo-text{
   color: white;
 }
+.footer-list{
+  color: white;
+  list-style: none;
+  display: flex;
+  justify-content: center;
+  gap: 30px;
+}
+.icon-list{
+  text-align: center;
+  font-size: 25px;
+}
+.icon{
+  color: white;
+}
 
 
 
