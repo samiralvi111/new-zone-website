@@ -222,6 +222,8 @@ padding-left: 200px;
 /*footer section here...............................................................................................*/
 .footer{
   background-color: #0B0223;
+  height: 400px;
+  margin-top: 70px;
 }
 .logo2{
   display: flex;
@@ -245,7 +247,19 @@ padding-left: 200px;
 .icon{
   color: white;
 }
-
+#icons1{
+  margin-left: 30px;
+}
+#icons2{
+  margin-left: 40px;
+}
+#icons3{
+  margin-left: 40px;
+}
+.fotter-rights{
+  color: white;
+  text-align: center;
+}
 
 
 
