@@ -49,6 +49,9 @@ font-size: 15px;
 font-style: normal;
 font-weight: 500;
 }
+#head-icon{
+  color: blue;
+}
 /*first section start here.........................................................*/
 .section1{
 display: flex;
