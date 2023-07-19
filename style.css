@@ -119,4 +119,105 @@ font-size: 15px;
 font-weight: 600;
 text-transform: uppercase;
 }
+/*secound section start here.......................................................................*/
+.section2{
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  background-color: #FFF9FC;
+}
+.section2-text{
+  text-align: right;
+}
+.section2-heading{
+font-size: 48px;
+font-weight: 700;
+background: linear-gradient(180deg, #F948B2 0%, #8758F1 100%);
+background-clip: text;
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+}
+.section2-description{
+color: #534C64;
+text-align: right;
+font-size: 18px;
+font-weight: 400;
+}
+.section2-fotter-text{
+color: #534C64;
+font-size: 32px;
+font-weight: 700;
+margin-top: auto;
+}
+/*third section start here..................................................................................*/
+.section3-heading{
+  text-align: center;
+}
+.section3-images{
+  display: flex;
+  justify-content: space-evenly;
+  padding-left: 10%;
+  padding-right: 10%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media screen and (max-width: 576px) {
+  .navbar{
+    flex-direction: column;
+  }
+  .logo{
+    flex-direction: column;
+  }
+  .list{
+    flex-direction: column;
+  }
+  .option{
+    flex-direction: column;
+  }
+  .section1{
+    flex-direction: column;
+   
+    
+  }
+  .section1-heading{
+    width: 650px;
+    background-size: 100px;
+  }
+  .section1-image{
+    width: 50px;
+
+  }
+}
 
