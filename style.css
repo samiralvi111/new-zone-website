@@ -241,6 +241,9 @@ padding-left: 200px;
   align-items: center;
   justify-content: center;
 }
+.footer-heading{
+  color: #FF42A5;
+}
 .fotter-logo-text{
   color: white;
 }
