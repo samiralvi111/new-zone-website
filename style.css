@@ -52,6 +52,9 @@ font-weight: 500;
 #head-icon{
   color: blue;
 }
+#head-icon2{
+  color:black;
+}
 /*first section start here.........................................................*/
 .section1{
 display: flex;
