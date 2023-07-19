@@ -206,6 +206,13 @@ font-weight: 400;
 padding-bottom: 250px;
 padding-left: 200px;
 }
+/*fifth section start here................................................................................................*/
+.section5-images1{
+  display: flex;
+}
+.section5-images{
+  display: flex;
+}
 
 
 
