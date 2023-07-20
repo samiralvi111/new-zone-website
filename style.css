@@ -350,6 +350,9 @@ margin-top: 50px;
   .section1{
     flex-direction: column; 
   }
+  .section1-heading{
+    text-align: center;
+  }
   .image-media{
     width: 300px;
   }
@@ -383,6 +386,12 @@ flex-direction: column;
   }
   .section5-images2{
     flex-direction: column;
+  }
+  .footer-list{
+    flex-direction: column;
+  }
+  .section4-heading{
+    text-align: center;
   }
 }
 
