@@ -363,5 +363,11 @@ margin-top: 50px;
   .section2{
 flex-direction: column;
   }
+  .image-media2{
+    width: 400px;
+  }
+  .section3-images{
+    flex-direction: column;
+  }
 }
 
