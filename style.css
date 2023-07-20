@@ -369,5 +369,20 @@ flex-direction: column;
   .section3-images{
     flex-direction: column;
   }
+  .section4{
+    flex-direction: column;
+  }
+  .image-media3{
+    width: 350px;
+  }
+  .image-media4{
+    width: 200px;
+  }
+  .section5-images1{
+    flex-direction: column;
+  }
+  .section5-images2{
+    flex-direction: column;
+  }
 }
 
